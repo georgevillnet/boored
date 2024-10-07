@@ -45,9 +45,3 @@
 ![image](https://github.com/user-attachments/assets/ad17eb1e-8e61-4401-ab01-3134a5c5a049)
 
 
-
-<img src="https://via.placeholder.com/800x400" alt="Vista Previa del Proyecto" width="800" height="400">
-
-
-
-<img src="https://via.placeholder.com/800x400" alt="Vista Previa del Proyecto" width="800" height="400">
