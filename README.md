@@ -34,6 +34,15 @@
 ![image](https://github.com/user-attachments/assets/888000a3-e1d0-4d7d-8ea4-8d0815afed53)
 
 
+<h1>Tecnologias utilizadas:</h1>
+<p>Para empezar utilice figma para crea los diseños de la web. Luego utilice React dentro del Visual Studio, utilizando simplemente: Html/Css, luego React</p>
+
+<h1>Para ponerlo en marcha simplemente hay que guardar la carpeta en algun sitio y despues darlo a abrir con Visual Studio. Despues solo se abre a terminal dentro se pone: </h1>
+<p>- cd boored </p>
+<p>- npm install </p>
+<p>- npm run dex </p>
+
+<p>Finalmente esto seria mi aplicacion web</p>
 
 
 
