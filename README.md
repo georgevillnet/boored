@@ -1,8 +1,6 @@
 # boored
 <!-- README.md -->
 
-<h1>Boored</h1>
-
 <h2>Aplicación web de actividades</h2>
 
 <p>Aqui se ve la version web las dos versiones de mi proyecto, donde se pretende que sea lo mas facil de usar.</p>
